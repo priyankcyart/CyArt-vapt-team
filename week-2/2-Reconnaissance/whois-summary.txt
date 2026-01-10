@@ -1,0 +1,7 @@
+WHOIS Reconnaissance Summary
+
+WHOIS lookup was performed to gather domain registration information of the target. This helps identify ownership details and infrastructure components associated with the domain.
+
+Information collected included the domain registrar, registration and expiration dates, and name server details. These details provide insight into the domain lifecycle and hosting configuration.
+
+WHOIS data is useful during reconnaissance as it may reveal organizational information, hosting providers, and potential misconfigurations that can be further analyzed during vulnerability assessment.
