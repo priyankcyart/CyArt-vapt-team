@@ -1,0 +1,13 @@
+Reconnaissance Phase Summary
+
+The reconnaissance phase focuses on gathering publicly available information about the target without performing any active exploitation. The objective is to understand the attack surface and identify exposed assets using Open-Source Intelligence (OSINT) techniques.
+
+WHOIS lookup was performed to collect domain registration details such as registrar information, domain creation date, and name servers. This helps in understanding domain ownership and infrastructure setup.
+
+Subdomain enumeration was carried out using Sublist3r to identify additional subdomains associated with the target domain, which may expose development or testing environments.
+
+Technology stack identification was done using Wappalyzer to detect the web server, programming language, and frameworks used by the target application.
+
+Shodan was used to identify publicly exposed services and open ports, such as SSH and HTTP, along with service versions. Maltego was utilized to visually map domain relationships and linked infrastructure assets.
+
+All findings were documented in structured tables for asset mapping and reporting, providing a foundation for further vulnerability assessment and exploitation phases.
