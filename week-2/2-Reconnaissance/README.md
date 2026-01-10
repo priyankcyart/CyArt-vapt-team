@@ -23,7 +23,6 @@ This phase focuses on reconnaissance, which is the process of collecting publicl
 - Asset mapping and logging of findings
 
 ## Output
-- Reconnaissance report (PDF/DOC)
 - WHOIS summary
 - Subdomain list
 - Exposed services log
@@ -33,5 +32,5 @@ This phase focuses on reconnaissance, which is the process of collecting publicl
 The reconnaissance phase successfully identified multiple assets and exposed services, increasing the potential attack surface. These findings provide a strong foundation for vulnerability scanning and exploitation in later phases.
 
 ## Author
-VAPT Analyst  
+priyankcyart
 Week 2 – Reconnaissance Phase
