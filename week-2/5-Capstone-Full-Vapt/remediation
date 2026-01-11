@@ -1,0 +1,5 @@
+1. Use prepared statements to prevent SQL Injection
+2. Validate and sanitize all user inputs
+3. Disable unused services and ports
+4. Update web server and database regularly
+5. Apply least privilege principle
