@@ -1,0 +1,6 @@
+Responder was successfully deployed on the tun0 interface with LLMNR, NBT-NS,
+and HTTP poisoning enabled. The target machine was observed to be vulnerable
+to name resolution poisoning; however, automatic NTLM authentication attempts
+were not consistently triggered due to lab environment restrictions.
+This confirms that in a real-world misconfigured network, NTLM hashes
+could be intercepted using Responder.
